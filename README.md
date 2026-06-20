@@ -1,4 +1,4 @@
-# Mini Lead Management System (LMS)
+# Lead Management System (LMS)
 
 An enterprise-grade, production-ready Mini Lead Management System. Built with **Node.js/Express** and **Sequelize ORM (PostgreSQL)** on the backend, and **React + Vite** with **Bootstrap CSS** on the frontend. Containerized fully using **Docker**.
 
